@@ -26,8 +26,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  <img src="[https://imgur.com/a/04vwLzF](https://imgur.com/9x6YfNL)" alt="Azure">
-  <img src="https://imgur.com/9x6YfNL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/hCPMQ2FD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
