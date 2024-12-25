@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
- <img ![Screenshot 2024-12-08 100429](https://github.com/user-attachments/assets/562a83e2-cf79-42ca-a5de-cf284795883f)/>
+ <img src=![Screenshot 2024-12-08 100429](https://github.com/user-attachments/assets/562a83e2-cf79-42ca-a5de-cf284795883f)/>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
