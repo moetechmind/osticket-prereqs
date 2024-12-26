@@ -22,11 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install MySQL 8.0 for Windows Server 
 - Install The Rewrite Module 
 - Install PHP Manager for IIS
+- Install HeidiSQL/Setup
 
 <h2>Installation Steps</h2>
 
 <p>
-  <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/N6ZlAnN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/CPMQ2FD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/9x6YfNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
