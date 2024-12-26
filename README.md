@@ -34,10 +34,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 Lets start by Enabling IIS in Windows With CGI, If you go on microsoft edge and you type in the localhost IP Address 127.0.0.1 and it shows the error shown in the photo above please proccessed to enabling IIS in Windows with CGI
   to enable CGI --> Open Control Panel Select Programs then select Programs and Features then select turn windows features on or off then select Application Development Features then make sure CGI is check marked like shown in the 
-  photo above and now when you search for localhost IP address 127.0.0.1 it should not give you an ERROR anymore etc. 
+  photo above and now when you search for localhost IP address 127.0.0.1 it should not give you an ERROR anymore. 
 </p>
 <br />
-
+ad
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
