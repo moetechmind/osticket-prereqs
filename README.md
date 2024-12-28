@@ -106,10 +106,19 @@ Install: Follow the on-screen instructions. Accept the terms and conditions.</h3
 <h3 align="center">CREATE DIRECTORY C:\PHP</h3>
 <br />
 <p>
-<h3 align="center"> Open File Explorer, type, "C:\" in the search bar, Right-click and create a new folder called, "PHP". Download php-7.3.8-nts-Win32-VC15-x86.zip from<a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> Files You Need to Download</a>, Extract it by going to where you download the file, Right-click the PHP 7.3.8 file and press extract to the PHP Folder you just created.
+<h3 align="center"> 1. Create a folder for PHP:
+
+Open File Explorer and type C:\ in the search bar.
+Right-click anywhere in the search results and choose "New" > "Folder."
+Name the new folder "PHP".
+2. Download and extract the PHP files:
+
+Visit the download page (link removed) and download the file named php-7.3.8-nts-Win32-VC15-x86.zip (or a similar filename depending on the version you choose).
+After downloading, right-click the zip file and select "Extract All...".
+In the extraction window, choose the "PHP" folder you created earlier and click "Extract".
 </h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/18746085-a3cf-4f1f-b0d5-5cd73f969319"height="75%" width="100%"/>
+  <img src="https://i.imgur.com/2Ugthb9.png"75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">VC_REDIST DOWNLOAD</h3>
@@ -117,7 +126,7 @@ Install: Follow the on-screen instructions. Accept the terms and conditions.</h3
 <h3 align="center"> Download and install VC_Redist, Agree with any terms and agreements and finish installing.
 </h3>
 <p>
-  <img src="https://i.imgur.com/Gx8ryBV.png"75%" width="100%"/>
+  <img src="https://i.imgur.com/2Ugthb9.png"75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">DOWNLOAD MySQL </h3>
