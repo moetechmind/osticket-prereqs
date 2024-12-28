@@ -121,12 +121,17 @@ In the extraction window, choose the "PHP" folder you created earlier and click 
   <img src="https://i.imgur.com/2Ugthb9.png"75%" width="100%"/>
 </p>
 <br/>
-<h3 align="center">VC_REDIST DOWNLOAD</h3>
+<h3 align="center">VC_REDIST DOWNLOAD/MS Visual C++</h3>
 <br/>
-<h3 align="center"> Download and install VC_Redist, Agree with any terms and agreements and finish installing.
+<h3 align="center"> Download and Install VC_Redist:
+
+Download: Download the VC_Redist package.
+Install: Run the installer.
+Agree: Accept the terms and conditions.
+Complete: Finish the installation process.
 </h3>
 <p>
-  <img src="https://i.imgur.com/2Ugthb9.png"75%" width="100%"/>
+  <img src="https://i.imgur.com/8pPRYch.png"75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">DOWNLOAD MySQL </h3>
