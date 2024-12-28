@@ -134,11 +134,15 @@ Complete: Finish the installation process.
   <img src="https://i.imgur.com/8pPRYch.png"75%" width="100%"/>
 </p>
 <br/>
-<h3 align="center">DOWNLOAD MySQL </h3>
-<h3 align="center"> Download and install MySQL, Agree with any terms and agreements up until you get to the password portion. Here you can create a username and password for the database that you'll be using to store the Ticket Information used in osTicket. 
+<h3 align="center"> Install MySQL:
+
+Download: Download the MySQL installer.
+Install: Follow the on-screen instructions.
+Agree: Accept the terms and agreements.
+Set Password: Create a strong username and password for your database. This will be used to store your osTicket ticket information. 
 </h3>
 <p>
-  <img src="https://i.imgur.com/IVpLg40.png"75%" width="100%"/>
+  <img src="https://i.imgur.com/84IOQHR.png"75%" width="100%"/>
 <br/>
   <img src="https://i.imgur.com/zdhWXNx.png" height="75%" width="100%" />
 </p>
