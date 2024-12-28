@@ -79,7 +79,7 @@ Application Development: Expand "Application Development" and check the "CGI" bo
 OK: Click "OK" to install CGI.</h3>
 <br />
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/a6af9c35-e10c-4d7e-b2c8-30ffbe128f08" height="75%" width="100%"/>
+  <img src="https://i.imgur.com/T7djEHb.png" height="75%" width="100%"/>
 </p>
 <br />
 <h3 align="center">Install PHP Manager</h3>
