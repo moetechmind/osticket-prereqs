@@ -29,14 +29,18 @@ This Guide Will Help You Install a Ticketing System Called osTicket.<br/>
 <h3 align="center">Create Virtual Machine in Azure</h3>
 <br />
 <p>
-<h3 align="center">First, Lets start by creating a Resource Group Inside Azure. Search Resource Groups and Select Create to create the resource Group.</h3>
+<h3 align="center">To start, we'll establish a Resource Group within the Azure environment. Locate 'Resource Groups' in the Azure portal and click 'Create' to initiate the process.</h3>
 <br />
 </p>
 <p>
 	<img src="https://i.imgur.com/vBjsNHk.png" height="75%" width="100%" />
 </p>
 <p>
-<h3 align="center">Now, create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For username and password, it can be anything as we'll be using this info to remote in with our main computer. When creating the Virtual Machine (VM), allow Azure to create a new Virtual Network (Vnet):</h3>
+<h3 align="center">Create a Windows 10 Virtual Machine (VM) in Azure:
+
+CPU: 2-4 Virtual CPUs
+Username & Password: Choose any you like. You'll use these to connect remotely.
+Virtual Network: Let Azure create a new one.:</h3>
 <br />
 </p>
 <p>
