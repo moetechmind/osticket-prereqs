@@ -40,7 +40,7 @@ This Guide Will Help You Install a Ticketing System Called osTicket.<br/>
 <br />
 </p>
 <p>
-	<img src="https://i.imgur.com/dEF1c7h.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/emrcmPK.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
