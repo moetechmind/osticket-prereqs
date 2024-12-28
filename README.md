@@ -85,17 +85,22 @@ OK: Click "OK" to install CGI.</h3>
 <h3 align="center">Install PHP Manager</h3>
 <br />
 <p>
-<h3 align="center">Download the PHP manager file, and agree with all the terms. We've now downloaded the PHP manager into our operating system.</h3>
+<h3 align="center">Download and Install PHP Manager:
+
+Download: Download the PHP Manager file.
+Agree: Accept the terms and conditions.
+Installation Complete: PHP Manager is now installed on your system.</h3>
 <p>
-  <img src="https://i.imgur.com/pmwpPEu.png"height="75%" width="100%"/>
+  <img src="https://i.imgur.com/nEsGoIV.png"height="75%" width="100%"/>
 </p>
 <br/>
-<h3 align="center">Install Rewrite Module</h3>
+<h3 align="center">Now Install The Rewrite Module</h3>
 <br />
 <p>
-<h3 align="center">Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.</h3>
+<h3 align="center">Download: Download the Rewrite Module file.
+Install: Follow the on-screen instructions. Accept the terms and conditions.</h3>
 <p>
-  <img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/28cf2dd0-d39e-45f8-a01b-61aec6657228"height="75%" width="100%"/>
+  <img src="https://i.imgur.com/Zguwmm4.png"height="75%" width="100%"/>
 </p>
 <br/>
 <h3 align="center">CREATE DIRECTORY C:\PHP</h3>
