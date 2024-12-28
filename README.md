@@ -40,7 +40,7 @@ This Guide Will Help You Install a Ticketing System Called osTicket.<br/>
 
 CPU: 2-4 Virtual CPUs
 Username & Password: Choose any you like. You'll use these to connect remotely.
-Virtual Network: Let Azure create a new one.:</h3>
+Virtual Network: Let Azure create a new one.</h3>
 <br />
 </p>
 <p>
