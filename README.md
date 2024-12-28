@@ -48,16 +48,24 @@ Virtual Network: Let Azure create a new one.</h3>
 </p>
 <br />
 <br />
-<h3 align="center">Open your Remote Desktop Connection app on your computer and connect to your Virtual Machine that was created in Azure. </h3>
+<h3 align="center">Connect to your Azure VM That Was Just Created:
+
+Open Remote Desktop Connection: Find and open this app on your computer.
+Connect: Enter the connection details for your Azure VM. </h3>
 <br />
 <p>
-	<img src="https://github.com/Joeljjoseph1998/osticket-prereqs/assets/50834280/2e71fd86-4198-47aa-aa1a-d0aed1b8e0eb"/>
+	<img src="https://i.imgur.com/Y6WYmJB.png" height="75%" width="100%"/>
 	
 
 </p>
 <br />
 <br />
-<h3 align="center">Now we need to install / Enable IIS in Windows. Go to your Search Bar > Type "Control Panel" > Click "Programs" > "Turn Windows features on or off" > Scroll down to "Internet Information Services (IIS).</h3>
+<h3 align="center"> Enable/Install IIS in Windows:
+
+Search: Type "Control Panel" in the search bar.
+Programs: Open "Programs" and then "Turn Windows features on or off."
+IIS: Scroll down and check "Internet Information Services (IIS)."
+Install: Click "OK" to install IIS.</h3>
 <br />
 <p>
 	<img src="https://i.imgur.com/iB0DDRd.png" height="75%" width="100%" />
