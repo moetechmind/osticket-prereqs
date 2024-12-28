@@ -322,7 +322,7 @@ Set Password: Create a strong username and password for your database. This will
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/8wvWH0H.jpg" height="75%" width="100%" />
+	<img src="https://i.imgur.com/9Wa06DO.jpg" height="75%" width="100%" />
 </p>
 <br />
 <br />
