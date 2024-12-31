@@ -147,21 +147,22 @@ Set Password: Create a strong username and password for your database. This will
   <img src="https://i.imgur.com/zdhWXNx.png" height="75%" width="100%" />
 </p>
 <br/>
-<h3 align="center">Install osTicket v1.15.8</h3>
+<h3 align="center">Download: Download the osTicket v1.15.8 archive from within lab files.
+Unzip: Extract the downloaded archive. </h3>
 <br />
 <p>
-  Download osTicket (download from within lab files: link).
+  Download osTicket (download from within lab files).
 </p>
 <p>
-	Extract and copy the “upload” folder INTO c:\inetpub\wwwroot:
+	Extract and copy the “upload” folder INTO c:\inetpub\wwwroot: 
 </p>
-	<img src="https://i.imgur.com/0MUJLMU.png" height="75%" width="100%" />
-	<img src="https://i.imgur.com/1h9goM8.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/aVRYv6h.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/fWZHPE5.png" height="75%" width="100%" />
 <p>
 	Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 </p>
 <p>
-	<img src="https://i.imgur.com/pDikkgq.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/u66e77j.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -171,26 +172,26 @@ Set Password: Create a strong username and password for your database. This will
 	Go to sites -> Default -> osTicket:
 </p>
 <p>
-	<img src="https://i.imgur.com/QeWNlG3.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/JDgAq3t.png" height="75%" width="100%" />
 </p>
 <p>
 	On the right, click “Browse *:80”:
 </p>
 <p>
-	<img src="https://i.imgur.com/3iXhNbi.png" height="75%" width="100%"/>
+	<img src="https://i.imgur.com/3y16Qn9.png" height="75%" width="100%"/>
 </p>
 <br />
 <br />
 <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled</h3>
 <br />
 <p>
-	Go back to IIS, sites -> Default -> osTicket.
+	Go back to IIS, sites then click Default then osTicket.
 </p>
 <p>
 	Double-click PHP Manager:
 </p>
 <p>
-	<img src="https://i.imgur.com/LFKo5Hs.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/euNnssd.png" height="75%" width="100%" />
 </p>
 <p>
 	Click “Enable or disable an extension”.
@@ -205,14 +206,14 @@ Set Password: Create a strong username and password for your database. This will
 	Enable: php_opcache.dll:
 </p>
 <p>
-	<img src="https://imgur.com/a/nrQo0kz" height="75%" width="100%"/>
+	<img src="https://i.imgur.com/a/BUT43Ra" height="75%" width="100%"/>
 </p>
 <br />
 <br />
 <h3 align="center">Refresh the osTicket site in your browser, observe the changes</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/6iSNd4H.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/BUT43Ra.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -225,7 +226,8 @@ Set Password: Create a strong username and password for your database. This will
 	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
 </p>
 <p>
-	<img src="https://i.imgur.com/TEw71SD.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/6evRpfX.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/gOD1RrV.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -235,16 +237,16 @@ Set Password: Create a strong username and password for your database. This will
 	Disable inheritance -> Remove All:
 </p>
 <p>
-	<img src="https://i.imgur.com/1QtRWEF.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/ewd2C07.png" height="75%" width="100%" />
 </p>
 <p>
 	New Permissions -> Everyone -> All:
 </p>
 <p>
-	<img src="https://i.imgur.com/YzsMXNX.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/D60nsvq.png" height="75%" width="100%" />
 </p>
 <p>
-	<img src="https://i.imgur.com/k7x9yGR.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/n1A5m6L.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -257,15 +259,15 @@ Set Password: Create a strong username and password for your database. This will
 	Default email (receives email from customers):
 </p>
 <p>
-	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" />
-	<img src="https://i.imgur.com/YszhIpl.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/M6iELxF.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/ST28XVX.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
 <h3 align="center">Download and Install HeidiSQL</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/AEg0b2P.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/9SP2m3K.png" height="75%" width="100%" />
 </p>
 <p>
 	Create a new session, root/Password1.
@@ -274,13 +276,15 @@ Set Password: Create a strong username and password for your database. This will
 	Connect to the session:
 </p>
 <p>
-	<img src="https://i.imgur.com/9t51ApR.png" height="75%" width="100%" "/>
+	<img src="https://i.imgur.com/eAS2l8p.png" height="75%" width="100%" "/>
+	<img src="https://i.imgur.com/2DVcU3A.png" height="75%" width="100%" "/>
 </p>
 <p>
 	Create a database called “osTicket”:
 </p>
 <p>
-	<img src="https://i.imgur.com/vXzmQqg.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/YEdZ9FG.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/RC9RJkK.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -294,7 +298,7 @@ Set Password: Create a strong username and password for your database. This will
 	MySQL Password: Password1:
 </p>
 <p>
-	<img src="https://i.imgur.com/akDyber.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/w95r2sg.png" height="75%" width="100%" />
 </p>
 <p>Click “Install Now!”</p>
 <p>Congratulations, hopefully it is installed with no errors!</hp>
